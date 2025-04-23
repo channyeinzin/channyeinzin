@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **channyeinzin/channyeinzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can reach me via my email at channyeinzin.fl@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a deep passion for Japanese cuisine and love to explore new dishes when I'm not coding!
--->
+
