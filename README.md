@@ -29,17 +29,6 @@ Cybersecurity graduate student at **NYU Tandon** focused on **cloud security** a
 - Captures live traffic and flags suspicious IPs by activity thresholds
 - Simulated a Slowloris DoS attack mapped to MITRE ATT&CK
 - Streams results to a real-time Splunk dashboard via HEC
-
-#### 🤖 SOC Automation (STAI)
-`Python` `Docker` `Wazuh` `Splunk`
-- Docker-based SOC lab integrating Wazuh and Splunk
-- Automates alert ingestion, normalization, and incident reports
-
-#### 🔍 Malware Investigation CTF
-`Splunk` `SPL` `Digital Forensics`
-- Traced a malware upload, attacker IP, and compromised credentials in Splunk
-- Wrote a NIST SP 800-61 incident report on the Capital One breach
-
 ---
 
 ### 🛠️ Skills
