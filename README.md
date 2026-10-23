@@ -5,7 +5,6 @@ Cybersecurity graduate student at **NYU Tandon** focused on **cloud security** a
 ---
 
 ### 💼 Experience
-- **Desktop Support Technician**, Amazon (via Apex Systems)
 - **Cybersecurity Operations Intern**, Inova Health System: Splunk alert triage, automation scripts, vulnerability scanning
 - **Junior Sysadmin**, Rhee Bros.: Microsoft 365, Entra ID, access management and MFA
 
