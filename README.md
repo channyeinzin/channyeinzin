@@ -5,11 +5,12 @@ Cybersecurity graduate student at **NYU Tandon** focused on **cloud security** a
 ---
 
 ### 💼 Experience
-- **Cybersecurity Operations Intern**, Inova Health System: Splunk alert triage, automation scripts, vulnerability scanning
-- **Junior Sysadmin**, Rhee Bros.: Microsoft 365, Entra ID, access management and MFA
+- **Cybersecurity Operations Intern**, Inova Health System
+- **Jr. Systems Administrator Intern**, Rhee Bros.
+- **Cybersecurity Apprentice**, Logic Finder
 
 ### 🎓 Education
-- **M.S. Cybersecurity**, NYU Tandon School of Engineering (in progress)
+- **M.S. Cybersecurity**, New York University
 - **B.A. Computer Science**, Columbia University
 
 ---
@@ -17,11 +18,11 @@ Cybersecurity graduate student at **NYU Tandon** focused on **cloud security** a
 ### 🔧 Projects
 
 #### ☁️ [Secure AWS Cloud Lab](https://github.com/channyeinzin/aws-secure-cloud-lab) *(in progress)*
-`Terraform` `AWS` `GuardDuty` `Bedrock` `GitHub Actions`
-- Building a secure AWS environment as code with least-privilege IAM and encryption
-- DevSecOps pipeline that blocks insecure changes before deployment
-- Simulating cloud attacks and detecting them with GuardDuty and CloudTrail
-- AI-generated incident reports and LLM security testing
+`Terraform` `AWS` `GuardDuty` `WAF` `Bedrock` `scikit-learn` `GitHub Actions`
+- Secure AWS environment built as code with least-privilege IAM and KMS encryption
+- DevSecOps pipeline that blocks insecure changes with Checkov
+- Simulated attacks detected by GuardDuty, WAF, CloudTrail, and a Random Forest model
+- Bedrock incident reports mapped to MITRE ATT&CK and a chatbot hardened against prompt injection
 
 #### 🌐 [Network Traffic Analyzer](https://github.com/channyeinzin/network-traffic-analyzer)
 `Python` `PyShark` `tcpdump` `Splunk`
@@ -45,16 +46,19 @@ Cybersecurity graduate student at **NYU Tandon** focused on **cloud security** a
 | Area | Tools |
 |---|---|
 | **Cloud Security** | AWS (EC2, S3, IAM, KMS, CloudTrail), Terraform |
-| **Identity** | Entra ID, Active Directory, Microsoft 365 |
+| **Identity** | Entra ID, Active Directory, MFA |
 | **SIEM & Detection** | Splunk, Wazuh, MITRE ATT&CK, NIST 800-61 |
-| **Network** | Wireshark, TShark, tcpdump, Nmap, TCP/IP, DNS |
+| **Network** | Wireshark, TShark, tcpdump, Nmap |
 | **Languages** | Python, Bash, PowerShell, SQL |
 | **Platforms** | Linux, Windows, macOS, Docker |
+
+### 📜 Certifications
+- Google Cybersecurity Professional Certificate
+- CodePath Cybersecurity CYB102
 
 ### 📚 Currently Learning
 - **AI Security**: OWASP Top 10 for LLMs, MITRE ATLAS, Garak, PyRIT
 - **Cloud Security**: AWS security services and Infrastructure as Code
-- **Security+** certification
 
 ---
 
